@@ -9,5 +9,5 @@ add the public key to github ssh key
 
 settings -> SSH & GPG key -> add the ssh public key
 
-![alt text](https://github.com/Smrutimayeepadhi/Learning_git/image1.png)
+![alt text](https://github.com/Smrutimayeepadhi/Learning_git/blob/master/image1.png)
 
